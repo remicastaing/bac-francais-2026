@@ -1,78 +1,82 @@
 # Progression
 
-Objectif : suivre l'avancement des revisions avant les epreuves de francais des **10 et 11 juin 2026**.
+Objectif : suivre l'avancement réel des révisions avant les épreuves de français des **10 et 11 juin 2026**.
 
-Statuts a utiliser :
+À compléter après chaque séance de travail.
 
-- À faire
-- En cours
-- À revoir
-- Maîtrisé
+## Mode d'emploi
 
-## Procédés
+- Noter seulement ce qui a été fait.
+- Écrire un point fort précis.
+- Écrire un point à améliorer concret.
+- Ajouter une action corrective simple pour la prochaine séance.
 
-| notion | statut | dernière révision | niveau de maîtrise | lien fiche |
-| --- | --- | --- | --- | --- |
-| Comparaison | À faire |  |  | [[procedes/comparaison]] |
-| Métaphore | À faire |  |  | [[procedes/metaphore]] |
-| Personnification | À faire |  |  | [[procedes/personnification]] |
-| Anaphore | À faire |  |  | [[procedes/anaphore]] |
-| Répétition | À faire |  |  | [[procedes/repetition]] |
-| Énumération | À faire |  |  | [[procedes/enumeration]] |
-| Accumulation | À faire |  |  | [[procedes/accumulation]] |
-| Gradation | À faire |  |  | [[procedes/gradation]] |
-| Antithèse | À faire |  |  | [[procedes/antithese]] |
-| Oxymore | À faire |  |  | [[procedes/oxymore]] |
-| Hyperbole | À faire |  |  | [[procedes/hyperbole]] |
-| Champ lexical | À faire |  |  | [[procedes/champ_lexical]] |
-
-## Auteurs
-
-| auteur | mouvement | statut | phrase d’introduction maîtrisée | lien fiche |
-| --- | --- | --- | --- | --- |
-| Molière | Classicisme | À faire |  | [[auteurs/moliere]] |
-| La Fontaine | Classicisme | À faire |  | [[auteurs/la_fontaine]] |
-| Voltaire | Lumières | À faire |  | [[auteurs/voltaire]] |
-| Montesquieu | Lumières | À faire |  | [[auteurs/montesquieu]] |
-| Victor Hugo | Romantisme | À faire |  | [[auteurs/victor_hugo]] |
-| Balzac | Réalisme | À faire |  | [[auteurs/balzac]] |
-| Zola | Naturalisme | À faire |  | [[auteurs/zola]] |
-| Baudelaire | Symbolisme | À faire |  | [[auteurs/baudelaire]] |
-| Rimbaud | Symbolisme | À faire |  | [[auteurs/rimbaud]] |
-
-## Mouvements
-
-| mouvement | siècle | statut | auteurs associés | lien fiche |
-| --- | --- | --- | --- | --- |
-| Humanisme | XVIe siècle | À faire | Rabelais, Montaigne | [[mouvements/humanisme]] |
-| Classicisme | XVIIe siècle | À faire | Molière, La Fontaine, Racine | [[mouvements/classicisme]] |
-| Lumières | XVIIIe siècle | À faire | Voltaire, Montesquieu, Rousseau | [[mouvements/lumieres]] |
-| Romantisme | XIXe siècle | À faire | Victor Hugo, Lamartine, Musset | [[mouvements/romantisme]] |
-| Réalisme | XIXe siècle | À faire | Balzac, Flaubert, Maupassant | [[mouvements/realisme]] |
-| Naturalisme | XIXe siècle | À faire | Zola, Maupassant | [[mouvements/naturalisme]] |
-| Symbolisme | XIXe siècle | À faire | Baudelaire, Verlaine, Rimbaud | [[mouvements/symbolisme]] |
-
-## Entraînements
-
-| date | type d’exercice | durée | difficulté | points à améliorer |
-| --- | --- | --- | --- | --- |
-| 2026-05-25 | PECA sur procédés essentiels | 20 min | Facile |  |
-| 2026-05-26 | PECA sur répétitions et rythme | 25 min | Moyen |  |
-| 2026-06-03 | 8 analyses PECA | 1h30 | Moyen |  |
-| 2026-06-04 | Commentaire partiel : un axe | 1h30 | Difficile |  |
-| 2026-06-06 | Commentaire complet chronométré | 3h30 | Difficile |  |
-| 2026-06-07 | Correction et nouvel axe | 3h00 | Difficile |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
-## Mini-bilan régulier
-
-- Date :
-- Ce qui progresse :
-- Ce qui reste à revoir :
-- Prochaine action :
-
-## Phrase utile à réutiliser
+Phrase utile à garder :
 
 > Ma priorité est de transformer chaque citation en analyse complète : procédé, effet, interprétation.
+
+## Textes analysés
+
+| date | exercice | durée | difficulté | point fort | point à améliorer | action corrective |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-25 | Lecture de [[textes/victor_hugo_demain_des_l_aube]], [[textes/baudelaire_l_albatros]], [[textes/la_fontaine_le_loup_et_l_agneau]] | 15 min | Facile |  |  |  |
+| 2026-05-26 | Lecture de [[textes/corneille_le_cid]] | 15 min | Moyen |  |  |  |
+| 2026-05-27 | Lecture de [[textes/baudelaire_l_albatros]] | 15 min | Moyen |  |  |  |
+| 2026-05-31 | Lecture au choix : [[textes/zola_germinal]], [[textes/rimbaud_le_dormeur_du_val]] ou [[textes/montaigne_des_cannibales]] | 20 min | Moyen |  |  |  |
+| 2026-06-06 | Texte du commentaire complet chronométré | 20 min | Difficile |  |  |  |
+|  |  |  |  |  |  |  |
+
+## Axes construits
+
+| date | exercice | durée | difficulté | point fort | point à améliorer | action corrective |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-27 | Trouver 2 ou 3 axes sur [[textes/baudelaire_l_albatros]] | 20 min | Moyen |  |  |  |
+| 2026-05-30 | Distinguer axe descriptif et axe interprétatif | 20 min | Moyen |  |  |  |
+| 2026-06-03 | Classer citations, sous-parties et axes | 20 min | Moyen |  |  |  |
+| 2026-06-04 | Construire un axe complet avec deux sous-parties | 25 min | Difficile |  |  |  |
+| 2026-06-05 | Reformuler des axes trop vagues | 15 min | Moyen |  |  |  |
+|  |  |  |  |  |  |  |
+
+## Paragraphes PECA rédigés
+
+| date | exercice | durée | difficulté | point fort | point à améliorer | action corrective |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-25 | 4 phrases procédé -> effet -> interprétation | 20 min | Facile |  |  |  |
+| 2026-05-26 | 5 lignes PECA sur [[textes/corneille_le_cid]] | 25 min | Moyen |  |  |  |
+| 2026-06-03 | 8 analyses PECA puis 3 paragraphes courts | 1h30 | Moyen |  |  |  |
+| 2026-06-08 | 3 phrases d'analyse propres | 15 min | Facile |  |  |  |
+|  |  |  |  |  |  |  |
+
+## Commentaires partiels
+
+| date | exercice | durée | difficulté | point fort | point à améliorer | action corrective |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-31 | Mini-commentaire chronométré : un axe rédigé | 1h30 | Moyen à difficile |  |  |  |
+| 2026-06-04 | Axe complet avec deux sous-parties | 1h30 | Difficile |  |  |  |
+| 2026-06-07 | Refaire l'axe le moins réussi du commentaire complet | 1h00 | Difficile |  |  |  |
+|  |  |  |  |  |  |  |
+
+## Commentaires complets
+
+| date | exercice | durée | difficulté | point fort | point à améliorer | action corrective |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-06 | Commentaire complet chronométré | 3h30 | Difficile |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
+## Erreurs récurrentes
+
+| date | exercice | durée | difficulté | point fort | point à améliorer | action corrective |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-03 | Correction des phrases qui ressemblent à du résumé | 10 min | Moyen |  |  | Refaire [[exercices/eviter_la_paraphrase]] si besoin |
+| 2026-06-07 | Analyse des erreurs du commentaire complet | 30 min | Difficile |  |  | Noter 3 erreurs à éviter le jour J |
+| 2026-06-08 | Relecture légère avec [[methodologie/checklist_relecture]] | 15 min | Facile |  |  | Revoir seulement les points faibles |
+|  |  |  |  |  |  |  |
+
+## Bilan rapide
+
+- Dernier texte analysé :
+- Meilleur axe construit :
+- Meilleur paragraphe PECA :
+- Erreur qui revient souvent :
+- Action prioritaire demain :

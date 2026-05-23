@@ -16,6 +16,7 @@ Objectif : travailler efficacement, avec des fiches courtes, utiles et faciles a
 - `planning/` : calendrier de revision et objectifs par semaine
 - `methodologie/` : methodes pour le commentaire, la dissertation et l'oral
 - `procedes/` : fiches sur les procedes litteraires
+- `textes/` : extraits courts du domaine public pour s'entrainer sur de vrais textes
 - `mouvements/` : mouvements litteraires importants
 - `auteurs/` : fiches auteurs
 - `registres/` : registres litteraires

@@ -57,6 +57,10 @@ A verifier cette semaine :
 
 - [[methodologie/commentaire]]
 - [[suivi/progression]]
+
+- [[dashboard/revisions_du_jour_questions]]
+- [[dashboard/revisions_du_jour_reponses]]
+- [[suivi/index_questions_reponses]]
 - [[suivi/checklist_globale]]
 - [[phrases_reutilisables/analyse]]
 - [[procedes/index]]

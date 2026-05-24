@@ -1,79 +1,110 @@
 # Planning complet
 
-Révision du 24 mai 2026 au 9 juin 2026.
+Revision du 24 mai 2026 au 9 juin 2026.
+
+Epreuve ecrite anticipee de francais : jeudi 11 juin 2026 matin (SIEC).
 
 Textes supports : [[textes/index]]
 
-Objectif général : réussir le commentaire de texte en travaillant chaque jour un peu de lecture réelle, d'analyse, de construction d'axes et de méthode.
+## Corpus fixe
 
+- [[textes/victor_hugo_demain_des_l_aube]]
+- [[textes/baudelaire_l_albatros]]
+- [[textes/la_fontaine_le_loup_et_l_agneau]]
+- [[textes/corneille_le_cid]]
+- [[textes/moliere_tartuffe]]
+- [[textes/voltaire_candide]]
+- [[textes/zola_germinal]]
+- [[textes/racine_phedre]]
+- [[textes/flaubert_madame_bovary]]
+- [[textes/balzac_le_pere_goriot]]
+- [[textes/rimbaud_le_dormeur_du_val]]
+- [[textes/apollinaire_le_pont_mirabeau]]
+- [[textes/montaigne_des_cannibales]]
+
+## Ligne directrice
+
+- [ ] Que veut montrer le texte ?
+- [ ] Comment le texte evolue-t-il ?
+- [ ] Quel est l'effet dominant du passage ?
+- [ ] Le procede sert une idee, pas l'inverse.
+- [ ] Un axe est une idee, pas un theme.
+
+Objectif general : reussir le commentaire de texte en montant progressivement vers une vraie autonomie de redaction, avec des textes reels, des axes solides et une gestion du temps de type bac.
 # Planning - dimanche 24 mai 2026
 
 ## Objectif du jour
 
-Entrer sérieusement dans la préparation : comprendre la logique du commentaire, revoir les procédés essentiels et produire les premières analyses sur de vrais textes.
+Installer les fondations intensives : methode, lecture active, premiers axes et premiers paragraphes sur de vrais textes.
 
 ## Duree totale prevue
 
-2h30 à 3h00
+3h15 a 3h30
 
 ## Niveau de difficulte
 
-Moyen
+Fort
 
 ## Sessions de travail
 
-1. 30 min - Lire [[methodologie/commentaire]].
-2. 35 min - Revoir métaphore, comparaison, personnification, anaphore, antithèse.
-3. 35 min - Lire [[textes/victor_hugo_demain_des_l_aube]] et [[textes/baudelaire_l_albatros]].
-4. 45 min - Rédiger 6 phrases d'analyse procédé -> effet -> interprétation.
-5. 20 min - Mettre à jour [[suivi/progression]].
+1. 30 min - Lire [[methodologie/commentaire]] et [[methodologie/construire_des_axes_solides]].
+2. 40 min - Lire [[textes/victor_hugo_demain_des_l_aube]] et [[textes/baudelaire_l_albatros]].
+3. 35 min - Formuler une problematique simple, puis 2 axes pour chaque texte.
+4. 45 min - Rediger 2 mini paragraphes PECA et 1 mini transition.
+5. 20 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
 - [[methodologie/commentaire]]
+- [[methodologie/construire_des_axes_solides]]
 - [[methodologie/paragraphe_peca]]
-- [[procedes/index]]
 - [[phrases_reutilisables/analyse]]
 - [[textes/victor_hugo_demain_des_l_aube]]
 - [[textes/baudelaire_l_albatros]]
 
-## Lecture réelle courte
+## Lecture reelle courte
+
+Textes : [[textes/victor_hugo_demain_des_l_aube]], [[textes/baudelaire_l_albatros]]
 
 Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Rédiger 6 phrases d'analyse.
-
-Modèle :
-
-> Dans l'expression "[citation]", l'auteur emploie [procédé]. Ce choix crée un effet de [effet] et permet de comprendre que [interprétation].
+Pour chaque texte, repondre a : que veut montrer le texte ? comment le texte evolue-t-il ? quel est l'effet dominant ?
+Puis rediger : 1 problematique, 2 axes et 1 paragraphe PECA par texte.
+Ne pas faire une liste de figures : chaque citation doit soutenir une interpretation.
 
 ## Checklist de validation
 
-- [ ] Je comprends la différence entre résumé et analyse.
-- [ ] Je sais expliquer procédé -> effet -> interprétation.
-- [ ] J'ai lu deux vrais textes.
-- [ ] J'ai proposé au moins une idée d'axe par texte.
-- [ ] J'ai rédigé 6 phrases d'analyse.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je distingue bien resume et analyse.
+- [ ] Je sais dire ce que le texte veut montrer.
+- [ ] J'ai trouve au moins 2 axes par texte.
+- [ ] J'ai ecrit 2 paragraphes PECA courts.
+- [ ] J'ai relu avec la logique procede -> effet -> interpretation.
+- [ ] J'ai mis a jour [[suivi/progression]].
 
 ## Mini-bilan
 
-- Ce que j'ai compris sur le commentaire :
-- Procédé le plus clair :
-- Procédé à revoir :
-- Texte le plus facile à comprendre :
-- Phrase utile à réutiliser :
-
----
+- Ce que j'ai compris sur la methode :
+- Axe le plus solide :
+- Point encore flou :
+- Texte le plus parlant :
+- Phrase utile a reutiliser :
 
 ---
 
@@ -81,72 +112,80 @@ Modèle :
 
 ## Objectif du jour
 
-Revoir les procédés essentiels à partir de vraies citations littéraires.
+Consolider les fondations : comparer des textes, affiner les axes et passer plus vite a la redaction.
 
 ## Duree totale prevue
 
-1h15
+3h30 a 3h45
 
 ## Niveau de difficulte
 
-Facile à moyen
+Fort
 
 ## Sessions de travail
 
-1. 20 min - Relire les procédés de base.
-2. 15 min - Lire trois courts extraits.
-3. 30 min - Rédiger 4 phrases d'analyse.
-4. 10 min - Mettre à jour le mini-bilan et [[suivi/progression]].
+1. 35 min - Lire [[textes/la_fontaine_le_loup_et_l_agneau]], [[textes/voltaire_candide]] et [[textes/flaubert_madame_bovary]].
+2. 30 min - Revoir [[procedes/index]] et [[phrases_reutilisables/analyse]].
+3. 40 min - Formuler 2 ou 3 problematiques, puis 2 axes par texte.
+4. 45 min - Rediger 1 introduction et 2 paragraphes d'analyse.
+5. 20 min - Relire avec [[methodologie/checklist_relecture]].
+6. 15 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
 - [[procedes/index]]
-- [[procedes/metaphore]]
-- [[procedes/comparaison]]
-- [[procedes/personnification]]
 - [[phrases_reutilisables/analyse]]
-- [[textes/victor_hugo_demain_des_l_aube]]
-- [[textes/baudelaire_l_albatros]]
+- [[methodologie/problematique]]
+- [[methodologie/plan_commentaire]]
+- [[methodologie/introduction_commentaire]]
+- [[methodologie/checklist_relecture]]
 - [[textes/la_fontaine_le_loup_et_l_agneau]]
+- [[textes/voltaire_candide]]
+- [[textes/flaubert_madame_bovary]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Textes : [[textes/victor_hugo_demain_des_l_aube]], [[textes/baudelaire_l_albatros]], [[textes/la_fontaine_le_loup_et_l_agneau]]
+Textes : [[textes/la_fontaine_le_loup_et_l_agneau]], [[textes/voltaire_candide]], [[textes/flaubert_madame_bovary]]
 
-Pour un texte au choix, compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Analyser ces citations :
-
-1. Victor Hugo : "J'irai par la forêt, j'irai par la montagne."
-2. Baudelaire : "ces rois de l'azur, maladroits et honteux"
-3. La Fontaine : "La raison du plus fort est toujours la meilleure"
-
-Phrase modèle :
-
-> Ce choix d'écriture produit un effet de [effet], ce qui montre que [interprétation].
+Choisir un texte parmi les trois et repondre a : que veut-il montrer ? comment evolue-t-il ? quel est l'effet dominant ?
+Puis ecrire une problematique simple, 2 axes interpretatifs et 1 introduction courte.
+Enfin, rediger un paragraphe PECA complet avec une citation courte.
 
 ## Checklist de validation
 
-- [ ] Je sais nommer un procédé simple.
-- [ ] Je sais expliquer son effet.
-- [ ] J'ai relié chaque citation à une idée du texte.
-- [ ] J'ai rédigé 4 phrases procédé -> effet -> interprétation.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je ne confonds pas theme et axe.
+- [ ] Chaque axe defend une idee.
+- [ ] Chaque citation est courte.
+- [ ] J'ai redige une introduction claire.
+- [ ] J'ai garde l'idee procede -> effet -> interpretation.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Ce que j'ai compris :
-- Ce qui reste difficile :
-- Phrase utile à réutiliser :
+- Ce que je sais faire plus vite :
+- Axe a reformuler :
+- Phrase d'analyse a garder :
+- Texte le plus simple a lire :
+- Point de methode a revoir :
 
 ---
 
@@ -154,7 +193,7 @@ Phrase modèle :
 
 ## Objectif du jour
 
-Travailler les répétitions, l'insistance et le rythme dans un texte de théâtre.
+Revenir au theatre et travailler l'insistance, la tension et la formulation de paragraphes courts.
 
 ## Duree totale prevue
 
@@ -162,65 +201,64 @@ Travailler les répétitions, l'insistance et le rythme dans un texte de théât
 
 ## Niveau de difficulte
 
-Moyen
+Leger a moyen
 
 ## Sessions de travail
 
-1. 20 min - Revoir répétition, anaphore, gradation.
+1. 20 min - Revoir [[procedes/anaphore]], [[procedes/repetition]] et [[procedes/question_rhetorique]].
 2. 15 min - Lire [[textes/corneille_le_cid]].
-3. 30 min - Faire 5 lignes PECA.
-4. 10 min - Mini-bilan et [[suivi/progression]].
+3. 25 min - Rediger 3 PECA sur le texte de Corneille.
+4. 15 min - Completer le mini-bilan et [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
 - [[procedes/anaphore]]
 - [[procedes/repetition]]
-- [[procedes/gradation]]
 - [[procedes/question_rhetorique]]
 - [[methodologie/paragraphe_peca]]
 - [[textes/corneille_le_cid]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/corneille_le_cid]]
+Textes : [[textes/corneille_le_cid]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Faire 5 lignes PECA à partir de ces citations :
-
-- "Ô rage ! ô désespoir ! ô vieillesse ennemie !"
-- "N'ai-je donc tant vécu que pour cette infamie ?"
-- "flétrir tant de lauriers"
-
-Pour chaque ligne :
-
-- Procédé :
-- Exemple :
-- Commentaire :
-- Analyse :
+Pour 3 citations courtes, indiquer : procede, effet, interpretation.
+Repondre aussi a : que veut montrer le texte ? comment le texte evolue-t-il ? quel est l'effet dominant ?
+Chercher un axe simple qui ne soit pas seulement descriptif.
 
 ## Checklist de validation
 
-- [ ] Je sais expliquer l'effet d'une répétition.
-- [ ] Je sais repérer une question rhétorique.
-- [ ] Je sais dire ce que le rythme fait ressentir.
-- [ ] J'ai rédigé 5 analyses courtes.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je sais expliquer une repetition.
+- [ ] Je sais reconnaitre une question rhetorique.
+- [ ] Je ne fais pas seulement une description.
+- [ ] J'ai redige 3 analyses courtes.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Procédé le plus simple pour moi :
-- Procédé à revoir :
-- Phrase utile à réutiliser :
+- Le procede qui m'a aide :
+- Le point encore difficile :
+- Phrase utile a reutiliser :
+- Ce que le texte veut montrer :
 
 ---
 
@@ -228,70 +266,75 @@ Pour chaque ligne :
 
 ## Objectif du jour
 
-Comprendre la méthode du commentaire et commencer à construire des axes solides.
+Premier vrai entrainement structure : problematique, axes et premier axe redige sous chrono.
 
 ## Duree totale prevue
 
-1h20
+2h15 a 2h30
 
 ## Niveau de difficulte
 
-Moyen
+Moyen a fort
 
 ## Sessions de travail
 
-1. 20 min - Relire la méthode générale.
-2. 15 min - Lire [[textes/baudelaire_l_albatros]].
-3. 25 min - Trouver 2 ou 3 axes possibles.
-4. 20 min - Analyser deux citations et compléter [[suivi/progression]].
+1. 30 min - Lecture active de [[textes/baudelaire_l_albatros]].
+2. 25 min - Retour rapide sur [[textes/victor_hugo_demain_des_l_aube]] pour comparer le mouvement et l'effet dominant. 
+3. 35 min - Entrainement chrono : trouver 2 ou 3 axes possibles, reformuler un axe vague et construire une problematique.
+4. 35 min - Rediger 1 axe complet sur [[textes/baudelaire_l_albatros]].
+5. 15 min - Correction, transition et mise a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[methodologie/commentaire]]
-- [[methodologie/analyser_une_citation]]
 - [[methodologie/construire_des_axes_solides]]
+- [[methodologie/plan_commentaire]]
+- [[methodologie/transition]]
+- [[methodologie/analyser_une_citation]]
 - [[phrases_reutilisables/analyse]]
 - [[textes/baudelaire_l_albatros]]
+- [[textes/victor_hugo_demain_des_l_aube]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/baudelaire_l_albatros]]
+Textes : [[textes/baudelaire_l_albatros]], [[textes/victor_hugo_demain_des_l_aube]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Trouver 2 ou 3 axes possibles.
-
-Puis corriger au moins un axe trop vague.
-
-Exemple :
-
-- Axe faible : L'albatros.
-- Axe corrigé : L'albatros devient une image du poète rejeté par les hommes.
-
-Ensuite, choisir deux citations courtes et les analyser en 3 phrases.
+Chrono : 35 min pour passer de l'observation a un plan clair.
+Questions a garder : que veut montrer le texte ? comment evolue-t-il ? quel est l'effet dominant ?
+Objectif : ne pas rester dans les procedes, mais defendre une interpretation.
 
 ## Checklist de validation
 
-- [ ] Je sais qu'un commentaire n'est pas un résumé.
-- [ ] J'ai proposé au moins 2 axes.
-- [ ] J'ai corrigé un axe trop vague.
-- [ ] J'ai analysé deux citations.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] J'ai trouve une vraie problematique.
+- [ ] J'ai transforme mes observations en axes.
+- [ ] J'ai redige un axe complet.
+- [ ] Je n'ai pas traite les procedes comme une liste.
+- [ ] J'ai mis a jour [[suivi/progression]].
 
 ## Mini-bilan
 
-- Axe le plus solide :
-- Axe à reformuler :
-- Phrase utile à réutiliser :
+- Ce qui m'a fait gagner du temps :
+- Axe trop vague a corriger :
+- Question a me reposer demain :
+- Phrase d'analyse qui fonctionne :
 
 ---
 
@@ -299,11 +342,11 @@ Ensuite, choisir deux citations courtes et les analyser en 3 phrases.
 
 ## Objectif du jour
 
-Travailler l'introduction, la problématique et l'annonce du plan.
+Travailler un texte de theatre et apprendre a formuler une introduction courte et des axes interpretatifs.
 
 ## Duree totale prevue
 
-1h20
+1h25 a 1h30
 
 ## Niveau de difficulte
 
@@ -311,55 +354,61 @@ Moyen
 
 ## Sessions de travail
 
-1. 20 min - Revoir l'introduction.
-2. 15 min - Lire [[textes/moliere_tartuffe]].
-3. 25 min - Formuler une problématique et une annonce de plan.
-4. 20 min - Rédiger une introduction courte et mettre à jour [[suivi/progression]].
+1. 20 min - Lire [[textes/moliere_tartuffe]].
+2. 20 min - Identifier ce que le texte veut montrer et son effet dominant.
+3. 25 min - Construire une problematique simple et 2 axes interpretatifs.
+4. 20 min - Rediger une introduction courte et une transition.
+5. 10 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
 - [[methodologie/introduction_commentaire]]
-- [[methodologie/problematique]]
-- [[methodologie/annonce_du_plan]]
 - [[methodologie/construire_des_axes_solides]]
-- [[phrases_reutilisables/introduction]]
+- [[methodologie/transition]]
 - [[textes/moliere_tartuffe]]
+- [[phrases_reutilisables/introduction]]
+- [[phrases_reutilisables/transition]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/moliere_tartuffe]]
+Textes : [[textes/moliere_tartuffe]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Rédiger une introduction avec :
-
-- présentation rapide de l'auteur ;
-- situation du passage ;
-- problématique simple ;
-- annonce de deux axes.
+Reformuler un axe descriptif en axe interpretatif.
+Repondre a : que veut montrer le texte ? comment le texte evolue-t-il ? quel est l'effet dominant ?
+Rediger une introduction qui va droit a la problematique.
 
 ## Checklist de validation
 
+- [ ] Mon axe est une idee, pas un theme.
+- [ ] Ma problematique est simple et ouverte.
 - [ ] Mon introduction reste courte.
-- [ ] Ma problématique commence par "comment" ou "en quoi".
-- [ ] Mon plan contient des idées, pas seulement des procédés.
-- [ ] Mes phrases sont simples.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je distingue bien effet global et detail de procede.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Formulation de problématique retenue :
-- Point à revoir :
-- Phrase utile à réutiliser :
+- Ce qui est plus clair dans le theatre :
+- Axe a reformuler :
+- Phrase de transition a reutiliser :
 
 ---
 
@@ -367,64 +416,69 @@ Rédiger une introduction avec :
 
 ## Objectif du jour
 
-Utiliser les registres pour enrichir les interprétations.
+Aller a l'essentiel avec un texte court et garder un rythme leger mais utile.
 
 ## Duree totale prevue
 
-1h10
+1h10 a 1h15
 
 ## Niveau de difficulte
 
-Facile à moyen
+Leger
 
 ## Sessions de travail
 
-1. 20 min - Revoir les registres principaux.
-2. 15 min - Lire [[textes/racine_phedre]].
-3. 25 min - Relier registre, procédés et interprétation.
-4. 10 min - Mini-bilan et [[suivi/progression]].
+1. 20 min - Lire [[textes/rimbaud_le_dormeur_du_val]].
+2. 20 min - Revoir [[phrases_reutilisables/analyse]] et [[phrases_reutilisables/effets_produits]].
+3. 20 min - Rediger 2 mini paragraphes PECA.
+4. 10 min - Relire et mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[registres/index]]
-- [[registres/lyrique]]
-- [[registres/tragique]]
-- [[registres/polemique]]
-- [[registres/ironique]]
-- [[textes/racine_phedre]]
+- [[phrases_reutilisables/analyse]]
+- [[phrases_reutilisables/effets_produits]]
+- [[methodologie/paragraphe_peca]]
+- [[textes/rimbaud_le_dormeur_du_val]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/racine_phedre]]
+Textes : [[textes/rimbaud_le_dormeur_du_val]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Rédiger 3 phrases sur le modèle :
-
-> Le registre [registre] crée un effet de [effet] et permet de comprendre que [interprétation].
+Repondre a : que veut montrer le texte ? comment evolue-t-il ? quel est l'effet dominant ?
+Transformer 2 observations en 2 mini analyses completes.
+Garder une copie courte, propre et interpretable.
 
 ## Checklist de validation
 
-- [ ] Je sais reconnaître un registre.
-- [ ] Je sais expliquer son effet sur le lecteur.
-- [ ] Je sais relier registre et interprétation.
-- [ ] Je n'ai pas seulement nommé le registre.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je sais dire ce que le texte veut montrer.
+- [ ] J'ai identifie le mouvement du passage.
+- [ ] Je n'ai pas alourdi la seance.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Registre le plus facile :
-- Registre à revoir :
-- Phrase utile à réutiliser :
+- Le texte me fait penser a :
+- L'effet dominant est :
+- Une phrase utile a garder :
 
 ---
 
@@ -432,71 +486,76 @@ Rédiger 3 phrases sur le modèle :
 
 ## Objectif du jour
 
-Revoir les grands mouvements et distinguer axes descriptifs et axes interprétatifs.
+Premier week-end niveau bac : commentaire partiel chrono, axes plus solides et vraie redaction sur un texte de satyre.
 
 ## Duree totale prevue
 
-2h30
+3h15 a 3h30
 
 ## Niveau de difficulte
 
-Moyen
+Fort
 
 ## Sessions de travail
 
-1. 45 min - Revoir classicisme et Lumières.
-2. 40 min - Revoir romantisme et réalisme.
-3. 25 min - Lire deux textes supports.
-4. 25 min - Transformer des observations en axes.
-5. 15 min - Mini-bilan et [[suivi/progression]].
+1. 35 min - Lecture active de [[textes/la_fontaine_le_loup_et_l_agneau]] et [[textes/voltaire_candide]].
+2. 30 min - Trouver 2 ou 3 axes possibles et reformuler un axe trop vague.
+3. 55 min - Commentaire partiel chronometre : problematique, plan et 1 axe redige.
+4. 40 min - Correction : transitions, anti-paraphrase et interpretation.
+5. 20 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[mouvements/classicisme]]
-- [[mouvements/lumieres]]
-- [[mouvements/romantisme]]
-- [[mouvements/realisme]]
 - [[methodologie/construire_des_axes_solides]]
+- [[methodologie/plan_commentaire]]
+- [[methodologie/transition]]
+- [[methodologie/checklist_relecture]]
+- [[exercices/eviter_la_paraphrase]]
 - [[textes/la_fontaine_le_loup_et_l_agneau]]
 - [[textes/voltaire_candide]]
-- [[textes/victor_hugo_demain_des_l_aube]]
-- [[textes/balzac_le_pere_goriot]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Choisir deux textes parmi ceux indiqués.
+Textes : [[textes/la_fontaine_le_loup_et_l_agneau]], [[textes/voltaire_candide]]
 
 Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Compléter ce tableau :
-
-| Observation descriptive | Axe interprétatif corrigé |
-| --- | --- |
-| Le texte décrit [élément]. | Cette description montre que [interprétation]. |
-| Le texte parle de [thème]. | Le texte utilise [thème] pour révéler [idée]. |
+Commentaire partiel chrono : passer des observations a 2 axes clairs.
+Associer citations et sous-parties.
+Distinguer axe descriptif et axe interpretatif.
 
 ## Checklist de validation
 
-- [ ] Je connais les caractéristiques des mouvements travaillés.
-- [ ] Je distingue un axe descriptif d'un axe interprétatif.
-- [ ] J'ai transformé au moins 2 observations en axes.
-- [ ] Je pars d'une idée, pas seulement d'un procédé.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] J'ai une problematique simple.
+- [ ] Mes axes repondent au texte.
+- [ ] Je sais ce que veut montrer le passage.
+- [ ] J'ai ecrit sous chrono sans rester bloque sur les procedes.
+- [ ] J'ai fait une vraie correction ensuite.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Mouvement le mieux compris :
-- Axe le mieux reformulé :
-- Phrase utile à réutiliser :
+- Ce qui marche sous chrono :
+- Axe a reprendre :
+- Erreur de redaction a eviter :
+- Phrase de transition a reutiliser :
 
 ---
 
@@ -504,80 +563,75 @@ Compléter ce tableau :
 
 ## Objectif du jour
 
-Faire un premier mini-commentaire chronométré pour éviter le choc du commentaire complet.
+Premier mini-commentaire chronometre 1h30 : ecrire sans rester dans la simple liste de procedes.
 
 ## Duree totale prevue
 
-2h40
+3h00 a 3h20
 
 ## Niveau de difficulte
 
-Moyen à difficile
+Fort
 
 ## Sessions de travail
 
-1. 30 min - Revoir naturalisme, symbolisme et humanisme.
-2. 20 min - Lecture réelle courte et choix du texte.
-3. 1h30 - Mini-commentaire chronométré.
-4. 20 min - Correction rapide et [[suivi/progression]].
+1. 20 min - Lecture active de [[textes/flaubert_madame_bovary]] et rappel de [[methodologie/strategie_jour_j]].
+2. 20 min - Problematic + plan sur le texte choisi.
+3. 90 min - Mini-commentaire chronometre : 20 min lecture et reperages, 20 min problematique et plan, 40 min redaction d'un axe, 10 min relecture.
+4. 25 min - Correction detaillee avec [[methodologie/checklist_relecture]].
+5. 15 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[mouvements/naturalisme]]
-- [[mouvements/symbolisme]]
-- [[mouvements/humanisme]]
-- [[methodologie/construire_des_axes_solides]]
+- [[methodologie/strategie_jour_j]]
 - [[methodologie/checklist_relecture]]
-- [[textes/zola_germinal]]
-- [[textes/rimbaud_le_dormeur_du_val]]
-- [[textes/montaigne_des_cannibales]]
+- [[methodologie/construire_des_axes_solides]]
+- [[methodologie/transition]]
+- [[textes/flaubert_madame_bovary]]
+- [[textes/racine_phedre]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Choisir un texte support :
+Textes : [[textes/flaubert_madame_bovary]], [[textes/racine_phedre]]
 
-- [[textes/zola_germinal]]
-- [[textes/rimbaud_le_dormeur_du_val]]
-- [[textes/montaigne_des_cannibales]]
+Pour chaque texte :
 
-À compléter :
-
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Mini-commentaire chronométré de 1h30 :
-
-1. 20 min - Lecture + repérages.
-2. 20 min - Problématique + plan.
-3. 40 min - Rédaction d'un axe complet.
-4. 10 min - Relecture avec [[methodologie/checklist_relecture]].
-
-À produire :
-
-- une problématique ;
-- deux axes possibles ;
-- un axe rédigé avec deux citations analysées ;
-- une correction concrète après relecture.
+Faire un vrai mini-commentaire : 20 + 20 + 40 + 10.
+Repondre a : que veut montrer le texte ? comment evolue-t-il ? quel est l'effet dominant ?
+Rediger un axe complet puis le corriger, sans rajouter du theorie pour la theorie.
 
 ## Checklist de validation
 
-- [ ] J'ai tenu le temps.
-- [ ] Mon plan contient au moins deux axes clairs.
-- [ ] J'ai rédigé un axe complet.
-- [ ] Chaque citation est analysée.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] J'ai respecte le chrono.
+- [ ] J'ai redige un axe coherent.
+- [ ] J'ai garde des citations courtes.
+- [ ] J'ai ecrit une transition simple.
+- [ ] J'ai relu avec la checklist.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Ce qui devient plus clair :
-- Temps le plus difficile à tenir :
-- Phrase utile à réutiliser :
+- Ce que le chrono m'a appris :
+- Point de blocage :
+- Phrase d'analyse a garder :
+- Ce que le texte veut montrer :
 
 ---
 
@@ -585,11 +639,11 @@ Mini-commentaire chronométré de 1h30 :
 
 ## Objectif du jour
 
-Revoir des auteurs majeurs sans apprendre de biographies longues.
+Travailler la progression d'un texte poetique et construire une petite redaction fluide.
 
 ## Duree totale prevue
 
-1h20
+1h20 a 1h30
 
 ## Niveau de difficulte
 
@@ -597,56 +651,60 @@ Moyen
 
 ## Sessions de travail
 
-1. 25 min - Revoir 4 auteurs utiles.
-2. 15 min - Lire un texte support.
-3. 30 min - Relier auteur, mouvement et idée d'axe.
-4. 10 min - Mini-bilan et [[suivi/progression]].
+1. 20 min - Lire [[textes/apollinaire_le_pont_mirabeau]].
+2. 20 min - Revoir [[phrases_reutilisables/introduction]] et [[phrases_reutilisables/transition]].
+3. 25 min - Ecrire une introduction courte, 1 axe et 1 transition.
+4. 15 min - Relire avec [[methodologie/checklist_relecture]].
+5. 10 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[auteurs/victor_hugo]]
-- [[auteurs/baudelaire]]
-- [[auteurs/moliere]]
-- [[auteurs/la_fontaine]]
-- [[mouvements/romantisme]]
-- [[textes/victor_hugo_demain_des_l_aube]]
-- [[textes/moliere_tartuffe]]
-- [[textes/la_fontaine_le_loup_et_l_agneau]]
+- [[phrases_reutilisables/introduction]]
+- [[phrases_reutilisables/transition]]
+- [[methodologie/introduction_commentaire]]
+- [[methodologie/checklist_relecture]]
+- [[textes/apollinaire_le_pont_mirabeau]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Choisir un texte.
+Textes : [[textes/apollinaire_le_pont_mirabeau]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Pour chaque auteur révisé, compléter :
-
-> Chez [auteur], [thème] permet souvent de montrer [idée].
-
-Puis proposer une idée d'axe pour le texte lu.
+Repondre a : que veut montrer le texte ? comment evolue-t-il ? quel est l'effet dominant ?
+Rediger 1 introduction, 1 axe et 1 transition sur le texte.
+Ne pas se contenter de relever des sonorites : elles doivent servir une interpretation.
 
 ## Checklist de validation
 
-- [ ] Je retiens une idée utile par auteur.
-- [ ] Je ne fais pas de biographie longue.
-- [ ] Je sais relier auteur, mouvement et texte.
-- [ ] J'ai formulé une idée d'axe.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je vois le mouvement du texte.
+- [ ] Mon introduction va droit a l'enjeu.
+- [ ] Mon axe reste interpretatif.
+- [ ] J'ai garde une redaction courte mais propre.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Auteur le mieux compris :
-- Auteur à revoir :
-- Phrase utile à réutiliser :
+- Progression du texte :
+- Effet dominant :
+- Phrase utile a reutiliser :
 
 ---
 
@@ -654,11 +712,11 @@ Puis proposer une idée d'axe pour le texte lu.
 
 ## Objectif du jour
 
-Revoir des auteurs utiles pour l'argumentation, le roman et la poésie.
+Renforcer la lecture d'un texte narratif : mouvement, effet global et interpretation sociale.
 
 ## Duree totale prevue
 
-1h20
+1h15 a 1h25
 
 ## Niveau de difficulte
 
@@ -666,56 +724,60 @@ Moyen
 
 ## Sessions de travail
 
-1. 25 min - Revoir les auteurs.
-2. 15 min - Lire un texte support.
-3. 30 min - Faire 5 phrases d'analyse.
-4. 10 min - Mini-bilan et [[suivi/progression]].
+1. 20 min - Lire [[textes/zola_germinal]].
+2. 20 min - Identifier ce que le texte veut montrer et son effet dominant.
+3. 25 min - Rediger 1 axe complet et 1 mini paragraphe PECA.
+4. 15 min - Relire avec [[methodologie/checklist_relecture]] et [[exercices/eviter_la_paraphrase]].
+5. 10 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[auteurs/voltaire]]
-- [[auteurs/montesquieu]]
-- [[auteurs/balzac]]
-- [[auteurs/zola]]
-- [[auteurs/rimbaud]]
-- [[textes/voltaire_candide]]
+- [[methodologie/construire_des_axes_solides]]
+- [[methodologie/paragraphe_peca]]
+- [[methodologie/checklist_relecture]]
+- [[exercices/eviter_la_paraphrase]]
 - [[textes/zola_germinal]]
-- [[textes/rimbaud_le_dormeur_du_val]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Choisir un texte.
+Textes : [[textes/zola_germinal]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Rédiger 5 phrases d'analyse qui partent d'une idée du texte.
-
-Ne pas commencer toutes les phrases par "L'auteur utilise".
-
-S'aider de [[phrases_reutilisables/analyse]].
+Repondre a : que veut montrer le texte ? comment evolue-t-il ? quel est l'effet dominant ?
+Passer d'un constat descriptif a une interpretation precise.
+Rediger un axe social et un PECA propre, sans paraphrase.
 
 ## Checklist de validation
 
-- [ ] Je connais une idée utile sur les auteurs revus.
-- [ ] J'ai analysé un vrai extrait.
-- [ ] Mes phrases sont variées.
-- [ ] Chaque phrase contient une interprétation.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je ne me contente pas de decrire.
+- [ ] Je relie bien les details au sens global.
+- [ ] Je sais dire pourquoi le texte est naturaliste ou realiste.
+- [ ] J'ai relu la copie avec la checklist.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Auteur le mieux compris :
-- Point à revoir :
-- Phrase utile à réutiliser :
+- Ce que le texte dit de la societe :
+- Point technique a revoir :
+- Phrase d'analyse utile :
 
 ---
 
@@ -723,72 +785,73 @@ S'aider de [[phrases_reutilisables/analyse]].
 
 ## Objectif du jour
 
-S'entraîner à PECA, organiser les citations et éviter la paraphrase.
+Deuxieme montee en puissance : structurer les axes et tenir un commentaire partiel plus ambitieux.
 
 ## Duree totale prevue
 
-1h30
+2h30 a 2h45
 
 ## Niveau de difficulte
 
-Moyen à difficile
+Fort
 
 ## Sessions de travail
 
-1. 15 min - Relire [[methodologie/paragraphe_peca]].
-2. 15 min - Lire [[textes/flaubert_madame_bovary]].
-3. 30 min - Faire 8 analyses PECA.
-4. 20 min - Classer citations, sous-parties et axes.
-5. 10 min - Anti-paraphrase + [[suivi/progression]].
+1. 30 min - Lecture active de [[textes/racine_phedre]] et [[textes/flaubert_madame_bovary]].
+2. 35 min - Trouver 2 ou 3 axes possibles et reformuler un axe trop vague.
+3. 75 min - Commentaire partiel chronometre sur un texte choisi.
+4. 25 min - Correction : transitions, anti-paraphrase, effets globaux et interpretation.
+5. 20 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[methodologie/paragraphe_peca]]
 - [[methodologie/construire_des_axes_solides]]
+- [[methodologie/transition]]
+- [[methodologie/checklist_relecture]]
 - [[exercices/eviter_la_paraphrase]]
-- [[phrases_reutilisables/analyse]]
+- [[textes/racine_phedre]]
 - [[textes/flaubert_madame_bovary]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/flaubert_madame_bovary]]
+Textes : [[textes/racine_phedre]], [[textes/flaubert_madame_bovary]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Faire 8 analyses PECA.
-
-Puis classer 3 citations :
-
-| Citation | Procédé | Idée de sous-partie | Axe possible |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-Finir par les phrases 1 à 5 de [[exercices/eviter_la_paraphrase]].
+Faire un commentaire partiel chronometre plus solide que celui du week-end precedent.
+Associer les citations aux sous-parties.
+Verifier que chaque axe repond bien a la question : que veut montrer le texte ?
 
 ## Checklist de validation
 
-- [ ] J'ai choisi des citations courtes.
-- [ ] J'ai expliqué les effets.
-- [ ] J'ai associé des citations à des sous-parties.
-- [ ] J'ai corrigé au moins 2 phrases qui ressemblaient à du résumé.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Mes axes sont clairement interpretes.
+- [ ] Je sais dire comment le texte evolue.
+- [ ] Je n'ai pas juste aligne des procedes.
+- [ ] J'ai redige sous chrono et corrige ensuite.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Analyse la plus réussie :
-- Point à améliorer :
-- Phrase utile à réutiliser :
+- Ce qui a progresse depuis le 31 mai :
+- Axe encore trop descriptif :
+- Transition utile a garder :
 
 ---
 
@@ -796,68 +859,72 @@ Finir par les phrases 1 à 5 de [[exercices/eviter_la_paraphrase]].
 
 ## Objectif du jour
 
-Rédiger un commentaire partiel : un axe complet avec deux sous-parties.
+Gagner en fluidite : axe complet, transition et conclusion courte sur un texte argumentatif.
 
 ## Duree totale prevue
 
-1h30
+1h25 a 1h30
 
 ## Niveau de difficulte
 
-Difficile
+Moyen a fort
 
 ## Sessions de travail
 
-1. 15 min - Lire [[textes/zola_germinal]].
-2. 25 min - Préparer axe, sous-parties et citations.
-3. 35 min - Rédiger l'axe complet.
-4. 15 min - Relire avec [[methodologie/checklist_relecture]] et compléter [[suivi/progression]].
+1. 20 min - Lire [[textes/voltaire_candide]].
+2. 20 min - Identifier le mouvement du texte, son effet dominant et ce qu'il veut montrer.
+3. 25 min - Rediger 1 axe complet et 1 transition courte.
+4. 15 min - Ecrire une conclusion de 3 a 5 lignes.
+5. 10 min - Relire avec [[methodologie/checklist_relecture]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[methodologie/construire_des_axes_solides]]
-- [[methodologie/rediger_un_paragraphe]]
-- [[methodologie/analyser_une_citation]]
+- [[methodologie/transition]]
+- [[methodologie/conclusion_commentaire]]
 - [[methodologie/checklist_relecture]]
-- [[phrases_reutilisables/analyse]]
-- [[textes/zola_germinal]]
+- [[phrases_reutilisables/conclusion]]
+- [[textes/voltaire_candide]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/zola_germinal]]
+Textes : [[textes/voltaire_candide]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Remplir le plan rapide :
-
-| Axe choisi | Sous-partie 1 | Citations | Sous-partie 2 | Citations |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-Puis rédiger l'axe avec au moins 3 citations courtes.
+Rédiger un axe qui répond clairement a : que veut montrer le texte ?
+Ajouter une transition et une conclusion courte, sans introduction inutile de théorie.
+Vérifier que le paragraphe n'est pas une simple paraphrase.
 
 ## Checklist de validation
 
-- [ ] Mon axe répond à la problématique.
-- [ ] Chaque sous-partie contient une idée claire.
-- [ ] Chaque citation est analysée.
-- [ ] J'ai évité la paraphrase.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Mon axe est une vraie idée.
+- [ ] Ma transition relie bien deux idées.
+- [ ] Ma conclusion répond a la problématique.
+- [ ] Je relis avec une checklist courte.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Partie la plus réussie :
-- Partie à corriger :
-- Phrase utile à réutiliser :
+- Le point le plus solide aujourd'hui :
+- Le point a simplifier :
+- Phrase de conclusion a reutiliser :
 
 ---
 
@@ -865,76 +932,70 @@ Puis rédiger l'axe avec au moins 3 citations courtes.
 
 ## Objectif du jour
 
-Travailler introduction, transitions, conclusion et reformulation des axes.
+Alléger la charge et verrouiller l'essentiel : anti-paraphrase, relecture et automatismes.
 
 ## Duree totale prevue
 
-1h15
+1h00 a 1h10
 
 ## Niveau de difficulte
 
-Moyen
+Leger
 
 ## Sessions de travail
 
-1. 15 min - Lire [[textes/apollinaire_le_pont_mirabeau]].
-2. 20 min - Revoir introduction, transition, conclusion.
-3. 25 min - Rédiger introduction + transition + conclusion.
-4. 15 min - Relire avec [[methodologie/checklist_relecture]] et compléter [[suivi/progression]].
+1. 15 min - Revoir [[exercices/eviter_la_paraphrase]] et [[methodologie/checklist_relecture]].
+2. 15 min - Relire [[textes/moliere_tartuffe]] ou un texte deja connu.
+3. 20 min - Transformer 5 phrases de resume en analyses.
+4. 10 min - Faire la relecture finale et mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[methodologie/introduction_commentaire]]
-- [[methodologie/conclusion_commentaire]]
-- [[methodologie/transition]]
-- [[methodologie/construire_des_axes_solides]]
+- [[exercices/eviter_la_paraphrase]]
 - [[methodologie/checklist_relecture]]
-- [[phrases_reutilisables/introduction]]
-- [[phrases_reutilisables/conclusion]]
-- [[textes/apollinaire_le_pont_mirabeau]]
+- [[methodologie/strategie_jour_j]]
+- [[textes/moliere_tartuffe]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/apollinaire_le_pont_mirabeau]]
+Textes : [[textes/moliere_tartuffe]]
 
-À compléter :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Reformuler les axes trop vagues du 4 juin.
-
-| Axe trop vague | Axe corrigé |
-| --- | --- |
-| La description | Une description sombre qui révèle la dureté du monde social |
-| Le personnage | Un personnage isolé face à un milieu hostile |
-| Les procédés | Des images qui rendent la scène plus inquiétante |
-
-Puis rédiger :
-
-- une introduction ;
-- une transition ;
-- une conclusion courte.
+Transformer des phrases trop descriptives en vraies analyses.
+Garder en tete : procede -> effet -> interpretation.
+Conserver du souffle pour le week-end, sans surcharger la seance.
 
 ## Checklist de validation
 
-- [ ] Mon introduction est claire.
-- [ ] Mes axes annoncés sont interprétatifs.
-- [ ] Ma transition fait le lien entre deux idées.
-- [ ] Ma conclusion répond à la problématique.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je sais eviter la paraphrase.
+- [ ] Je sais relire rapidement et utilement.
+- [ ] Je connais la strategie du jour J.
+- [ ] Je reste dans une seance courte.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Formulation que je garde :
-- Point à revoir :
-- Phrase utile à réutiliser :
+- Ce que je dois garder en tete dimanche :
+- La faute la plus facile a commettre :
+- Phrase-reflexe :
 
 ---
 
@@ -942,72 +1003,72 @@ Puis rédiger :
 
 ## Objectif du jour
 
-Faire un commentaire complet chronométré en conditions proches de l'épreuve.
+Simulation finale : commentaire complet chronometre sur un texte connu, puis correction serieuse.
 
 ## Duree totale prevue
 
-3h30
+3h15 a 3h30
 
 ## Niveau de difficulte
 
-Difficile
+Fort
 
 ## Sessions de travail
 
-1. 30 min - Lecture, repérages, thème, registre.
-2. 30 min - Problématique et plan détaillé.
-3. 2h00 - Rédaction du commentaire.
-4. 30 min - Relecture avec [[methodologie/checklist_relecture]] et [[suivi/progression]].
+1. 20 min - Lecture active de [[textes/rimbaud_le_dormeur_du_val]].
+2. 20 min - Problematic et plan rapide.
+3. 1h45 - Commentaire complet chronometre, sans decouvrir la methode pendant la redaction.
+4. 35 min - Correction avec [[methodologie/checklist_relecture]] et [[methodologie/strategie_jour_j]].
+5. 20 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
+- [[methodologie/strategie_jour_j]]
+- [[methodologie/checklist_relecture]]
 - [[methodologie/commentaire]]
 - [[methodologie/construire_des_axes_solides]]
-- [[methodologie/checklist_relecture]]
-- [[procedes/index]]
-- [[registres/index]]
-- [[textes/baudelaire_l_albatros]]
-- [[textes/zola_germinal]]
-- [[textes/racine_phedre]]
+- [[textes/rimbaud_le_dormeur_du_val]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Choisir un texte support :
+Textes : [[textes/rimbaud_le_dormeur_du_val]]
 
-- [[textes/baudelaire_l_albatros]]
-- [[textes/zola_germinal]]
-- [[textes/racine_phedre]]
+Pour chaque texte :
 
-Avant de rédiger :
-
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Rédiger un commentaire complet chronométré.
-
-Règle principale :
-
-> Chaque citation doit être analysée avec procédé -> effet -> interprétation.
+Faire un commentaire complet dans des conditions proches du bac.
+Garder le texte en tete : que veut-il montrer ? comment evolue-t-il ? quel est l'effet dominant ?
+A la fin, corriger surtout les axes, les transitions, la paraphrase et la gestion du temps.
 
 ## Checklist de validation
 
-- [ ] J'ai une problématique claire.
-- [ ] Mon plan comporte deux ou trois axes.
-- [ ] Chaque axe contient des citations.
-- [ ] J'ai gardé du temps pour relire.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] J'ai tenu le chrono sans paniquer.
+- [ ] Ma copie a une vraie logique d'ensemble.
+- [ ] Mes axes sont interpretes et non descriptifs.
+- [ ] Je relis avec la checklist finale.
+- [ ] J'ai note les erreurs critiques dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Ce qui a bien fonctionné :
-- Ce qui a pris trop de temps :
-- Priorité pour demain :
+- Ce que la simulation revele :
+- Erreur prioritaire a corriger :
+- Reflexe utile pour le jour J :
 
 ---
 
@@ -1015,69 +1076,73 @@ Règle principale :
 
 ## Objectif du jour
 
-Corriger le commentaire complet et refaire un axe plus solide.
+Corriger la simulation et refaire un passage en autonomie sur un autre texte sans repartir de zero.
 
 ## Duree totale prevue
 
-3h00
+2h45 a 3h00
 
 ## Niveau de difficulte
 
-Difficile
+Fort
 
 ## Sessions de travail
 
-1. 30 min - Relire le commentaire avec [[methodologie/checklist_relecture]].
-2. 45 min - Corriger le plan et les analyses faibles.
-3. 45 min - Faire les phrases 6 à 10 de [[exercices/eviter_la_paraphrase]].
-4. 1h00 - Rédiger un nouvel axe chronométré et compléter [[suivi/progression]].
+1. 30 min - Relecture de la copie du 6 juin et repérage des erreurs critiques.
+2. 25 min - Reprendre les axes faibles et les reformuler.
+3. 60 min - Second passage chronometre sur [[textes/apollinaire_le_pont_mirabeau]] ou [[textes/baudelaire_l_albatros]].
+4. 35 min - Correction : intro, transitions, relecture et anti-paraphrase.
+5. 20 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
 - [[methodologie/checklist_relecture]]
-- [[methodologie/rediger_un_paragraphe]]
+- [[methodologie/transition]]
 - [[methodologie/construire_des_axes_solides]]
 - [[exercices/eviter_la_paraphrase]]
-- [[phrases_reutilisables/analyse]]
+- [[textes/apollinaire_le_pont_mirabeau]]
+- [[textes/baudelaire_l_albatros]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Reprendre le texte du commentaire complet du 6 juin.
+Textes : [[textes/apollinaire_le_pont_mirabeau]], [[textes/baudelaire_l_albatros]]
 
-À compléter après correction :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Choisir l'axe le moins réussi du commentaire complet et le refaire.
-
-À vérifier :
-
-- citations courtes ;
-- procédés précis ;
-- effets expliqués ;
-- interprétations claires ;
-- aucune phrase de simple résumé.
+Corriger ce qui a bloque la veille, puis refaire un passage court mais propre.
+Verifier : que veut montrer le texte ? comment évolue-t-il ? quel est l'effet dominant ?
+Passer de l'erreur au réflexe, sans refaire un cours entier.
 
 ## Checklist de validation
 
-- [ ] J'ai repéré mes erreurs principales.
-- [ ] J'ai remplacé des phrases de résumé par des analyses.
-- [ ] J'ai refait un axe complet.
-- [ ] J'ai noté 3 erreurs à éviter le jour J.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je sais ce que j'ai raté la veille.
+- [ ] Je reformule mes axes plus clairement.
+- [ ] Je garde la logique procede -> effet -> interpretation.
+- [ ] Je relis efficacement.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Erreur principale à éviter :
-- Progrès visible :
-- Phrase utile à réutiliser :
+- Erreur a ne plus refaire :
+- Nouvelle formulation d'axe :
+- Reflexe utile a automatiser :
 
 ---
 
@@ -1085,65 +1150,70 @@ Choisir l'axe le moins réussi du commentaire complet et le refaire.
 
 ## Objectif du jour
 
-Faire une révision légère et rassurante avant l'épreuve.
+Reprise tres legere : garder les automatismes sans fatiguer la tete.
 
 ## Duree totale prevue
 
-1h00
+35 a 45 min
 
 ## Niveau de difficulte
 
-Facile
+Tres leger
 
 ## Sessions de travail
 
-1. 15 min - Relire [[methodologie/commentaire]].
-2. 10 min - Lire [[textes/rimbaud_le_dormeur_du_val]].
-3. 15 min - Relire [[methodologie/checklist_relecture]].
-4. 20 min - Relire [[methodologie/strategie_jour_j]] et compléter [[suivi/progression]].
+1. 15 min - Relire [[methodologie/checklist_relecture]].
+2. 10 min - Relire un texte deja connu : [[textes/victor_hugo_demain_des_l_aube]] ou [[textes/baudelaire_l_albatros]].
+3. 10 min - Revoir 3 phrases de [[phrases_reutilisables/analyse]] et [[phrases_reutilisables/conclusion]].
+4. 5 min - Mettre a jour [[suivi/progression]].
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[methodologie/commentaire]]
 - [[methodologie/checklist_relecture]]
-- [[methodologie/strategie_jour_j]]
 - [[phrases_reutilisables/analyse]]
-- [[textes/rimbaud_le_dormeur_du_val]]
+- [[phrases_reutilisables/conclusion]]
+- [[textes/victor_hugo_demain_des_l_aube]]
+- [[textes/baudelaire_l_albatros]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/rimbaud_le_dormeur_du_val]]
+Textes : [[textes/victor_hugo_demain_des_l_aube]], [[textes/baudelaire_l_albatros]]
 
-À compléter rapidement :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Rédiger 3 phrases d'analyse calmes et propres :
-
-> Ce choix d'écriture crée un effet de [effet], ce qui permet de comprendre que [interprétation].
-
-Pas de gros entraînement aujourd'hui.
+En 5 lignes, dire ce que veut montrer le texte, son effet dominant et un axe possible.
+Ne rien ajouter d'inutile. La reprise doit rester tres legere.
+Garder les automatismes sans fatigue.
 
 ## Checklist de validation
 
-- [ ] Je connais la structure du commentaire.
-- [ ] Je sais quoi faire si je bloque.
-- [ ] Je connais ma méthode de relecture.
-- [ ] Je ne lance pas un gros nouvel entraînement.
-- [ ] J'ai noté mon avancement dans [[suivi/progression]].
+- [ ] Je reste calme et bref.
+- [ ] Je sais ce que je ferais en premier au bac.
+- [ ] Je connais ma checklist de relecture.
+- [ ] J'ai note mon avancement dans [[suivi/progression]].
 
 ## Mini-bilan
 
-- Ce que je maîtrise :
-- Dernier point à relire :
-- Phrase rassurante à garder :
+- Ce que je veux garder jusqu'au bac :
+- Le texte qui me rassure :
+- Le reflexe principal :
 
 ---
 
@@ -1151,88 +1221,114 @@ Pas de gros entraînement aujourd'hui.
 
 ## Objectif du jour
 
-Dernière révision très légère avant les épreuves des 10 et 11 juin 2026.
+Veille d'epreuve : strategie jour J, calme, confiance et plan d'action tres simple.
 
 ## Duree totale prevue
 
-45 min à 1h00
+20 a 30 min
 
 ## Niveau de difficulte
 
-Facile
+Ultra leger
 
 ## Sessions de travail
 
-1. 10 min - Lire [[textes/montaigne_des_cannibales]].
-2. 15 min - Relire [[methodologie/strategie_jour_j]].
-3. 15 min - Relire [[methodologie/checklist_relecture]].
-4. 10 min - Préparer la stratégie personnelle et [[suivi/progression]].
+1. 10 min - Relire [[methodologie/strategie_jour_j]] et [[methodologie/checklist_relecture]].
+2. 10 min - Revoir les priorites finales et les erreurs critiques a eviter.
+3. 5 min - Ecrire le plan d'action du matin de l'epreuve et s'arreter.
 
 ## Fiches a reviser
 
 - [[suivi/progression]]
-- [[suivi/checklist_globale]]
 - [[methodologie/strategie_jour_j]]
 - [[methodologie/checklist_relecture]]
-- [[phrases_reutilisables/analyse]]
-- [[textes/montaigne_des_cannibales]]
+- [[methodologie/erreurs_frequentes]]
+- [[synthese_imprimable]]
 
-## Lecture réelle courte
+## Lecture reelle courte
 
-Texte : [[textes/montaigne_des_cannibales]]
+Textes : [[textes/victor_hugo_demain_des_l_aube]]
 
-À compléter oralement ou en quelques mots :
+Pour chaque texte :
 
-- Thème du texte :
+- Theme du texte :
 - Ton ou registre :
 - Mouvement du texte :
-- Deux procédés utiles :
-- Idée d'axe possible :
+- Ce que le texte veut montrer :
+- Effet dominant :
+- Deux procedes utiles :
+- Idee d'axe possible :
+
+Questions a garder en tete :
+
+- Que veut montrer le texte ?
+- Comment le texte evolue-t-il ?
+- Quel est l'effet dominant du passage ?
 
 ## Exercice du jour
 
-Rappel très léger :
-
-- Comment je lis le texte ?
-- Comment je choisis mes axes ?
-- Comment j'analyse une citation ?
-- Comment je relis ma copie ?
-- Que faire si je bloque ?
+Ecrire les 3 decisions du matin de l'epreuve : premiere lecture, premier repere, premier axe.
+Relire une derniere fois la strategie, puis couper court.
+L'objectif n'est plus d'apprendre, mais de rester stable.
 
 ## Checklist de validation
 
-- [ ] Je ne lance pas de gros entraînement.
-- [ ] Je connais le découpage des 4 heures.
-- [ ] Je garde en tête procédé -> effet -> interprétation.
-- [ ] Je prépare mon matériel et mon heure de départ.
-- [ ] Je termine par une révision calme.
+- [ ] Je sais quoi faire pendant les 20 premieres minutes.
+- [ ] Je sais quoi faire si je bloque.
+- [ ] Je sais comment relire.
+- [ ] Je sais comment eviter la paraphrase.
+- [ ] Je n'ajoute plus de nouvelle theorie.
 
 ## Mini-bilan
 
-- Ce que je veux retenir pour demain :
-- Ma stratégie si je bloque :
-- Phrase utile à réutiliser :
+- Ma premiere action le jour J :
+- Mon anti-stress le plus simple :
+- Ce que je n'oublie pas :
 
-# Synthèse des priorités finales
+---
 
-## Priorité 1 : comprendre le texte
+# Synthese des priorites finales
 
-Avant les procédés, il faut savoir ce que le texte raconte, fait ressentir et fait comprendre.
+1. Priorite 1 : comprendre le texte.
+2. Priorite 2 : construire des axes.
+3. Priorite 3 : analyser les citations.
+4. Priorite 4 : eviter la paraphrase.
+5. Priorite 5 : gerer le temps.
 
-## Priorité 2 : construire des axes
+Le rappel central reste le meme : procede -> effet -> interpretation.
 
-Un axe doit être une idée claire qui répond à la problématique, pas une simple liste de procédés.
+# Strategie de gestion des 4 heures
 
-## Priorité 3 : analyser les citations
+- 0 a 20 min : lire le texte, identifier le theme, le ton, le mouvement, et noter ce que le texte veut montrer.
+- 20 a 45 min : formuler une problematique simple et construire 2 ou 3 axes solides.
+- 45 min a 3h00 : rediger le developpement en gardant des citations courtes et une logique claire.
+- 3h00 a 3h45 : terminer l'introduction, la conclusion et les transitions si besoin.
+- 3h45 a 4h00 : relire avec [[methodologie/checklist_relecture]] et corriger les fautes visibles.
 
-Chaque citation doit être courte et expliquée avec la logique :
+Si tu bloques :
 
-> procédé -> effet -> interprétation.
+- reviens au sens global du texte ;
+- pose la question "Que veut montrer le texte ?" ;
+- simplifie l'axe ;
+- redige un seul paragraphe solide plutot que trois passages faibles.
 
-## Priorité 4 : éviter la paraphrase
+# Erreurs critiques a eviter
 
-Ne pas raconter le texte. Transformer chaque résumé en analyse.
+- raconter le texte au lieu de l'analyser.
+- faire des axes descriptifs qui ne defendent aucune idee.
+- citer trop long.
+- nommer un procede sans expliquer son effet.
+- oublier les transitions.
+- oublier la relecture.
+- rester bloque sur la theorie au lieu d'ecrire.
 
-## Priorité 5 : gérer le temps
+# Reflexes a automatiser
 
-Commencer à rédiger assez tôt, garder du temps pour conclure et relire avec [[methodologie/checklist_relecture]].
+- Se demander d'abord ce que le texte veut montrer.
+- Chercher ensuite comment le texte evolue.
+- Nommer seulement les procedes utiles.
+- Relier chaque citation a un effet precis.
+- Finir chaque paragraphe par une interpretation.
+- Garder une problematique simple et claire.
+- Relire avec une checklist courte.
+- Gérer le temps sans panique.
